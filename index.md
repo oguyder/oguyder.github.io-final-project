@@ -15,15 +15,15 @@ Analysis:
 For the analysis section, I started by loading the data set, so I could begin the analysis. I converted the data using the columnar function and checked the structure of the first few rows utilizing the head function. I then used the selection function to isolate the pre-recorded lecture data and the survey understanding data. Before moving into the visualization section, I used the convert-column-to-int function so they were in the correct format for seaborn. 
 
 
-! [graph 1](graph1.png)
+![graph 1](graph1.png)
 
 For my first visualization, I will utilize a scatterplot to help visually represent the relationship between pre-lecture video usefulness and student understanding.
 
-! [graph 2](graph2.png)
+![graph 2](graph2.png)
 
 For my second visualization, I thought a box plot could be helpful to see how the different levels of pre-recorded lecture rating contribute to the level of understanding.
 
-! [graph 3](graph3.png)
+![graph 3](graph3.png)
 
 For my final visualization I decided to do a bar plot because I thought it would be the most helpful in explaining averages and would be easier to interperate.
 
